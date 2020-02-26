@@ -1,7 +1,6 @@
 # ManetteArduino
 Projet de tutorat à Polytech Lille dans le but de transformer un Arduino en une manette de jeux reconnu automatiquement par un ordinateur.
 
-Fichier ReadMe du tutorat de système du groupe Mertz/Hassenforder
 
 Compilation et exécution du code :
 
